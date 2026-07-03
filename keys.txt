@@ -1,3 +1,0 @@
-CASH-1H-8F7E9:1hour
-CASH-1M-4D8E2:1month
-CASH-LT-9C3A1:lifetime
